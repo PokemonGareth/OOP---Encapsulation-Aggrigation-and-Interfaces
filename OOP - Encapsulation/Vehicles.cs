@@ -27,7 +27,7 @@ namespace OOP___Encapsulation
 
         public override string? ToString()
         {
-            return $"Reg: { Registration }\nColour: { Colour }\nMake: { Make }\nModel: { Model }\nNumber of Wheels: { NoOfWheels }\nDriver: { Driver }\n-------------------------------------------------------";
+            return $"Reg: { Registration }\nColour: { Colour }\nMake: { Make }\nModel: { Model }\nNumber of Wheels: { NoOfWheels }\nDriver: { Driver }";
         }
     }
 }
